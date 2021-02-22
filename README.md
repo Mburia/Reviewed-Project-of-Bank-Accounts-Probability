@@ -1,1 +1,1 @@
-# Reviewed-Project-of-Bank-Accounts-Probability
+In this project we make a machine learning attempt to figure out how we can predict which individuals are most likely to have or use a bank account in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
